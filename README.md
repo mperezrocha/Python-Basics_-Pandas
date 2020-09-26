@@ -1,2 +1,2 @@
-# Python-Basics_-Pandas
-Learning useful functions utilizing the library Pandas 
+# Python-Basics_Pandas
+Useful functions utilizing the library Pandas 
